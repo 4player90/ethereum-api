@@ -24,7 +24,7 @@ To learn more about the Oraclize technology, please refer to our __[documentatio
 
 &nbsp;
 
-### :computer: See It In Action!
+### :computer: See It In Action
 
 For working examples of how to integrate the __Oraclize__ API into your own smart-contracts, head on over to the __[Oraclize Examples](https://github.com/oraclize/ethereum-examples)__ repository. Here you'll find various examples that use __Oraclize__ to feed smart-contracts with data from a variety of external sources.
 
